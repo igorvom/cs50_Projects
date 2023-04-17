@@ -11,6 +11,7 @@ Passo 1: Criação dos sprites
 Crie dois sprites: Ícaro e o Sol.
 Para criar o sprite do Ícaro, você pode usar a ferramenta de pintura para desenhar um boneco com asas. Para adicionar detalhes, você pode usar a ferramenta de carimbo para adicionar penas e texturas.
 Para criar o sprite do Sol, você pode usar a ferramenta de pintura para desenhar um círculo amarelo. Em seguida, use a ferramenta de efeito para adicionar um brilho ao redor do sol.
+
 Passo 2: Animação do Ícaro
 
 Clique no sprite do Ícaro e vá para a aba de "Scripts".
@@ -18,6 +19,7 @@ Crie um novo script que faça o Ícaro voar para cima usando a ferramenta de "mo
 Em seguida, use a ferramenta de "esperar 0,1 segundos" para criar um efeito de movimento suave.
 Repita o processo até que o Ícaro esteja próximo do Sol.
 Finalmente, adicione um novo script que faça o Ícaro cair no mar usando a ferramenta de "mover 10 passos" para baixo e a ferramenta de "girar 360 graus".
+
 Passo 3: Animação do Sol
 
 Clique no sprite do Sol e vá para a aba de "Scripts".
